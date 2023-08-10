@@ -1,0 +1,73 @@
+.min-h-screen{
+    min-height: 100vh;
+}
+.bg-red{
+    background-color: red;
+}
+.mx-auto{
+    margin-left: auto;
+    margin-right: auto;
+}
+.flex{
+    display: flex;
+}
+.items-center{
+    align-items:center;
+}
+.justify-between{
+    justify-content:space-between;
+}
+.justify-center{
+    justify-content:center;
+}
+.flex-col{
+    flex-direction: column;
+}
+.font-bold{
+    font-weight:900;
+}
+.my1{
+    margin-top: 13px;
+    margin-bottom: 13px;
+}
+.my2{
+   
+    margin-bottom: 26px;
+}
+.px2{
+    padding-left: 13px;
+    padding-right: 13px;
+}
+.text-red{
+    color:rgb(196, 52, 52)
+}
+.btn{
+    padding: 4px 12px;
+    border: 2px solid red;
+    border-radius: 12px;
+    cursor: pointer;
+    color: white;
+    background-color:rgb(194, 48, 48) ;
+}
+.text-center{
+    text-align: center;
+}
+.bg-img{
+    background-image: url("colors3.png");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.bg-color1{
+    background-color: rgb(229, 120, 120);
+}
+.bg-color2{
+    background-color: rgb(236, 236, 103)
+}
+.bg-color3{
+    background-color: rgb(87, 210, 87);
+}
+.bg-color4{
+    background-color: rgb(110, 110, 231);
+    text-align: center;
+    padding: 23px;
+}
